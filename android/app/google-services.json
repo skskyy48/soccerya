@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1009831711257",
+    "firebase_url": "https://soccerya-31461.firebaseio.com",
+    "project_id": "soccerya-31461",
+    "storage_bucket": "soccerya-31461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009831711257:android:7a55237cf89beae8",
+        "android_client_info": {
+          "package_name": "com.soccerya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009831711257-0rq8v54nsv4k2s5tjckhh8p0k236fqqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soccerya",
+            "certificate_hash": "41803a6ca8b47a67ba9521913b77a18f7819911d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHOqzz3NJ63jErx5hDLu4KQvZavvViCL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009831711257-vv4fj10crmq3u0p2opj63ifb8gj0ffuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7735668451615080~8602862645"
+    }
+  ],
+  "configuration_version": "1"
+}
